@@ -7,3 +7,6 @@ def subtract(a, b);
 
 def multiplyI(a, b);
 	return a * b
+
+def divied(a, b);
+	return a/b
