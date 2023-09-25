@@ -10,6 +10,3 @@ def multiplyI(a, b);
 
 def divied_free(a, b);
 	return a/b
-
-def square(a, b)
-	return a*a
